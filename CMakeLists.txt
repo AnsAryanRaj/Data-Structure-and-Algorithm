@@ -110,10 +110,11 @@ add_executable(Coding main.cpp
         "Graphs/DFSTraversalUsinClass.cpp"
         "Graphs/CycleDetectionInUndirectedGraphUsingDFS.cpp"
         "Arrays/Lc-167. Two Sum II - Input Array Is Sorted.cpp"
-        "Arrays/3sum problem LC 15.cpp"
+        "Arrays/3sumproblemLC15.cpp"
         Graphs/NumberOfProvinces.cpp
         "Graphs/CycleDetectionBFS.cpp"
         Graphs/AdjacencyMatrix.cpp
         Graphs/countConnectedComponentsDFS.cpp
         Graphs/countConnectedComponentsBFS.cpp
+        Arrays/TrappingRainWaterProblemLC42.cpp
 )
