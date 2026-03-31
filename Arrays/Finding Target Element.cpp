@@ -1,30 +1,30 @@
-// #include<iostream>
-// using namespace std;
-// int linearsearch(int arr[], int size, int target) {
-//     for (int i=0;i<size;i++) {
-//         if (arr[i]==target) {
-//             return i;
-//         }
-//     }
-//     return -1;  // -1 means "not found" This is a common programming convention.
-//                 //if not used returns garbage value if element not found
-//
-// }
-// int main() {
-//     int arr[]={4,56,32,95};
-//     int s=sizeof(arr)/sizeof(arr[0]);
-//     int target=56;
-//     int result=linearsearch(arr,s, target);
-//     if (result!=-1) {
-//         cout<<"Element found at index = "<<result<<endl;
-//
-//     }
-//     else {
-//         cout<<"Element not found "<<endl;
-//         return 0;
-//     }
-// }
+#include<iostream>
+using namespace std;
 
+int linearsearch(int arr[], int size, int target) {
+    for (int i = 0; i < size; i++) {
+        if (arr[i] == target) {
+            return i;
+        }
+    }
+    return -1;
+}
+
+int main() {
+    int arr[] = {4, 56, 32, 95};
+    int s = sizeof(arr) / sizeof(arr[0]);
+    int target = 56;
+
+    int result = linearsearch(arr, s, target);
+
+    if (result != -1) {
+        cout << "Element found at index = " << result << endl;
+    } else {
+        cout << "Element not found " << endl;
+    }
+
+    return 0;
+}
 
 /*Why size in function and s in main doesn't cause error?
 
