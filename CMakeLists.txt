@@ -118,4 +118,22 @@ add_executable(Coding main.cpp
         Graphs/countConnectedComponentsBFS.cpp
         Arrays/TrappingRainWaterProblemLC42.cpp
         Arrays/ContainerWithMostWaterLC11.cpp
+        Arrays/SubarrayofArray.cpp
+        Arrays/SumOfEachSubarray.cpp
+        Arrays/SumOfAllSubarrays.cpp
+        Graphs/ImplementDFSOnaGraph.cpp
+        Basics/SIProblem.cpp
+        Basics/MaxOfTwoNos.cpp
+        Basics/Factorial.cpp
+        Basics/DrivingLicence.cpp
+        ESD/ProgramOne.cpp
+        ESD/ProgramTwo.cpp
+        ESD/ProgramThree.cpp
+        Arrays/RemoveElement.cpp
+        Arrays/MoveZeros.cpp
+        Arrays/MaxiumSubarray.cpp
+        Arrays/NextPermutation.cpp
+        Arrays/ProductOfArrayExceptSelf.cpp
+        Arrays/MaxConsecutiveOnes.cpp
+
 )
