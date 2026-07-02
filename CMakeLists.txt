@@ -135,5 +135,20 @@ add_executable(Coding main.cpp
         Arrays/NextPermutation.cpp
         Arrays/ProductOfArrayExceptSelf.cpp
         Arrays/MaxConsecutiveOnes.cpp
+        Graphs/dfstraversalC.cpp
+        ESD/ProgramFour.cpp
+        ESD/ProgramFive.cpp
+        ESD/ProgramSix.cpp
+        ESD/ProgramSixOther.cpp
+        ESD/ProgramSeven.cpp
+        ESD/ProgramEight.cpp
+        ESD/ProgramNine.cpp
+        ESD/ProgramTen.cpp
+        ESD/ProgramEleven.cpp
+        ESD/ProgramTwelve.cpp
+        ESD/ProgramThirteen.cpp
+        ESD/HomeWorkOne.cpp
+        ESD/ProgramFourteen.cpp
+        ESD/ProgramFifteen.cpp
 
 )

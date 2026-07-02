@@ -1,0 +1,1 @@
+//Ek array hai use rotate kar diya
