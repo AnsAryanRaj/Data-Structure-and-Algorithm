@@ -1,6 +1,6 @@
 //Check whether a given array is sorted(ascending or descending) or unsorted without using variable--
 
-/
+
 // #include <iostream>
 // using namespace std;
 // int main() {
