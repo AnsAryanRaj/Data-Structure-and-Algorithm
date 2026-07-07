@@ -3,12 +3,12 @@
 //
 // int main() {
 //     int n;
-//     cout << "Enter size of array: ";
+//     cout << "enter size of array: ";
 //     cin >> n;
 //
 //     int arr[n];
 //
-//     cout << "Enter elements: ";
+//     cout << "enter elts: ";
 //     for(int i = 0; i < n; i++) {
 //         cin >> arr[i];
 //     }

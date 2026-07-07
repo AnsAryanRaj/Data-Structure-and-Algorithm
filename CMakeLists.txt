@@ -151,5 +151,22 @@ add_executable(Coding main.cpp
         ESD/ProgramFourteen.cpp
         ESD/ProgramFifteen.cpp
         BinarySearch/Lc-33SearchInRotatedSortedArray.cpp
+        ESD/MaximumSumCircularSubarray.cpp
+        Revision/5starsin5lines.cpp
+        Revision/mstarinnline.cpp
+        Revision/1234in4lines.cpp
+        Revision/ABCDin4lines.cpp
+        Revision/SequentialNumberPattern.cpp
+        Revision/SequentialAlphabetPattern.cpp
+        ESD/Patternfostar.cpp
+        ESD/reversepattern.cpp
+        Revision/alphabetfloydstriangle.cpp
+        Revision/Pattern.cpp
+        Revision/patternwithspaceandstar.cpp
+        Revision/patternwithspaceandstar2.cpp
+        Strings/LexicographicalOrder.cpp
+        Revision/TravesingArray.cpp
+        Revision/InsertionInArray.cpp
+        Revision/RemovingElement.cpp
 
 )
