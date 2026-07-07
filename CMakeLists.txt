@@ -168,5 +168,17 @@ add_executable(Coding main.cpp
         Revision/TravesingArray.cpp
         Revision/InsertionInArray.cpp
         Revision/RemovingElement.cpp
+        Revision/SearchingElement.cpp
+        Revision/UpdatingArray.cpp
+        Revision/LargestinArray.cpp
+        Revision/smallestinarray.cpp
+        Revision/SmallestAndLargestEltofArray.cpp
+        Revision/LargesteltIndex.cpp
+        Revision/DoubletheElements.cpp
+        Revision/PrintingReverseOfanArray.cpp
+        Arrays/PrintEltsofArrayinReverseOrder.cpp
+        Arrays/ReverseArrayUsingNewArray.cpp
+        Arrays/ReverseAnArrayUsingCopyBacktotheOriginalArray.cpp
+        Arrays/ReverseArrayUsingSwap.cpp
 
 )
