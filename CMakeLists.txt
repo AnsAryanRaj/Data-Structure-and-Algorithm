@@ -180,5 +180,17 @@ add_executable(Coding main.cpp
         Arrays/ReverseArrayUsingNewArray.cpp
         Arrays/ReverseAnArrayUsingCopyBacktotheOriginalArray.cpp
         Arrays/ReverseArrayUsingSwap.cpp
+        Strings/PrintingString.cpp
+        Strings/InputInString.cpp
+        Strings/IndexingOfString.cpp
+        Arrays/PrintEltsOfArrayWhichMakeMaxSum.cpp
+        Strings/ChangeCharacterOfString.cpp
+        Strings/SizeofString.cpp
+        Strings/TraversingString.cpp
+        Strings/TraversingUsingForLoop.cpp
+        Strings/PrintCharactersinReverse.cpp
+        Strings/PrintAlternateCharacter.cpp
+        Strings/CountVowels.cpp
+        Strings/CountConsonants.cpp
 
 )
