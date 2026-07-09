@@ -192,5 +192,15 @@ add_executable(Coding main.cpp
         Strings/PrintAlternateCharacter.cpp
         Strings/CountVowels.cpp
         Strings/CountConsonants.cpp
+        Strings/CountUpperCaseLetters.cpp
+        Strings/CountLoweCaseLetters.cpp
+        Strings/ReverseStringUsingLoop.cpp
+        Strings/PrintASCIIvalueOfReverseOfString.cpp
+        Strings/CheckIfallCharacterareDigit.cpp
+        Strings/PrintAllCharacterWithTheirIndices.cpp
+        Strings/Sizefunction.cpp
+        Strings/EmptyFunc.cpp
+        Strings/ClearFunc.cpp
+        Strings/FrontFunc.cpp
 
 )
