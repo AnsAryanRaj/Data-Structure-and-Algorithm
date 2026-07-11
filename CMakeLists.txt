@@ -202,5 +202,40 @@ add_executable(Coding main.cpp
         Strings/EmptyFunc.cpp
         Strings/ClearFunc.cpp
         Strings/FrontFunc.cpp
+        Revision/SumandProductOfArray.cpp
+        Revision/SwapMaxandMinofArray.cpp
+        Revision/UniqueValuesInanArray.cpp
+        Revision/IntersectionOfTwoArrays.cpp
+        Arrays/FindtheSingleEltWithoutOppositeSign.cpp
+        Strings/backFunc.cpp
+        Strings/atFunc.cpp
+        Strings/PrinteveryCharacterofArrayUsingat.cpp
+        Strings/appendFunc.cpp
+        Strings/pushbackFunc.cpp
+        Strings/popbackFunc.cpp
+        Strings/insertFunc.cpp
+        Strings/eraseFunc.cpp
+        Strings/replacefunc.cpp
+        Strings/substrfunc.cpp
+        Strings/Findfunc.cpp
+        Strings/compare.cpp
+        Strings/swapFunc.cpp
+        Strings/stoiFunc.cpp
+        Strings/tostring.cpp
+        Strings/isdigitFunction.cpp
+        Strings/isalpha.cpp
+        Strings/islower.cpp
+        Strings/isUpper.cpp
+        Strings/tolower.cpp
+        Strings/toupper.cpp
+        Strings/countDigits.cpp
+        Strings/countalpha.cpp
+        Strings/countlowercase.cpp
+        Strings/countUppercaseLetter.cpp
+        Strings/ConvertEntireStrigtoUppercase.cpp
+        Strings/ConvertEntireStringToLowercase.cpp
+        Strings/CountDigitsInString.cpp
+        Strings/countspaces.cpp
+        Strings/countSpecialCharacter.cpp
 
 )
