@@ -237,5 +237,6 @@ add_executable(Coding main.cpp
         Strings/CountDigitsInString.cpp
         Strings/countspaces.cpp
         Strings/countSpecialCharacter.cpp
+        Strings/toggleTheCaseOfLetters.cpp
 
 )
