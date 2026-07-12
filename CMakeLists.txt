@@ -245,5 +245,6 @@ add_executable(Coding main.cpp
         Strings/CharacterFrequencyOptimizedMethod.cpp
         Strings/ReverseOnlyVowelsInAString.cpp
         Strings/ReverseEveryWordInsSentence.cpp
+        Strings/CheckIfaStringIsAPalindromeIgnoringCase.cpp
 
 )
