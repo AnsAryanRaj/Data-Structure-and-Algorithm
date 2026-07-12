@@ -242,5 +242,8 @@ add_executable(Coding main.cpp
         Strings/ReverseStringUsingReverseFunc.cpp
         Strings/Palindrome.cpp
         Strings/CharacterFrequency.cpp
+        Strings/CharacterFrequencyOptimizedMethod.cpp
+        Strings/ReverseOnlyVowelsInAString.cpp
+        Strings/ReverseEveryWordInsSentence.cpp
 
 )
