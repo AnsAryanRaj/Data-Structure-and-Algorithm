@@ -238,5 +238,9 @@ add_executable(Coding main.cpp
         Strings/countspaces.cpp
         Strings/countSpecialCharacter.cpp
         Strings/toggleTheCaseOfLetters.cpp
+        Strings/ReverseStringUsingSwap.cpp
+        Strings/ReverseStringUsingReverseFunc.cpp
+        Strings/Palindrome.cpp
+        Strings/CharacterFrequency.cpp
 
 )
