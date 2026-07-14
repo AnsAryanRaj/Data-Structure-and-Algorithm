@@ -246,5 +246,6 @@ add_executable(Coding main.cpp
         Strings/ReverseOnlyVowelsInAString.cpp
         Strings/ReverseEveryWordInsSentence.cpp
         Strings/CheckIfaStringIsAPalindromeIgnoringCase.cpp
+        Vector/MaximumSubarraySumBruteForceApproach.cpp
 
 )

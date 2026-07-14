@@ -1,27 +1,16 @@
-// #include <iostream>
+// #include<iostream>
 // using namespace std;
-//
-// int main() {
-//     int n;
-//     cout << "enter size of array: ";
-//     cin >> n;
-//
-//     int arr[n];
-//
-//     cout << "enter elts: ";
-//     for(int i = 0; i < n; i++) {
-//         cin >> arr[i];
-//     }
-//
-//     cout << "All subarrays are:\n";
-//
-//     for(int i = 0; i < n; i++) {
-//         for(int j = i; j < n; j++) {
-//             for(int k = i; k <= j; k++) {
-//                 cout << arr[k] << " ";
+// int main(){
+//     int arr[5]={1,2,3,4,5};
+//     int n=sizeof(arr)/sizeof(int);
+//     for(int st=0;st<n;st++){
+//         for(int end=st;end<n;end++){
+//             for(int i=st;i<=end;i++){
+//                 cout<<arr[i];
 //             }
-//             cout << endl;
+//             cout<<" ";
 //         }
+//         cout<<endl;
 //     }
 //     return 0;
 // }
