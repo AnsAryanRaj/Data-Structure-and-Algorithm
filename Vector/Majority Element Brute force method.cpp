@@ -27,3 +27,6 @@
 //     cout<<"Majority element is : "<< result<<endl;
 //     return 0;
 // }
+
+
+//Time complexity of this code is =O(n^2)

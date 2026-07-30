@@ -9,10 +9,13 @@
 //     string printedSofar="";
 //     for (int i=0;i<s.length();i++) {
 //         char ch=s[i];
+//
 //         //if ch not in printedSoFar, count and print the frequency of ch
+//
 //         if ( printedSofar.find(ch) == string:: npos) {
 //
 //             int count=0;
+//
 //             //int count = 0;
 //             //Outer loop ke andar likha hai.Har baar i ki nayi iteration shuru hoti hai,
 //             //to count naam ka naya variable banta hai aur phir se 0 se start hota hai.

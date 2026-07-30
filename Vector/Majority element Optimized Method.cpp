@@ -30,3 +30,6 @@
 //     cout<<"Majority element is : "<<result;
 //     return 0;
 // }
+
+
+//Time complexity of this code is =O(nlogn)

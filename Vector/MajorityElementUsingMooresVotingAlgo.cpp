@@ -7,9 +7,9 @@
 //
 //     for (int i=0;i<n;i++) {
 //         if (freq==0) {
-//             ans=nums[i];
+//             ans=nums[i]; // assigning the value
 //         }
-//         if (ans==nums[i]) {
+//         if (ans==nums[i]) {  //comparing
 //             freq++;
 //         }
 //         else {

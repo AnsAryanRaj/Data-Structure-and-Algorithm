@@ -247,5 +247,11 @@ add_executable(Coding main.cpp
         Strings/ReverseEveryWordInsSentence.cpp
         Strings/CheckIfaStringIsAPalindromeIgnoringCase.cpp
         Vector/MaximumSubarraySumBruteForceApproach.cpp
+        Arrays/PairSumProblemUsingBruteForce.cpp
+        Arrays/PairSumOptimal.cpp
+        Strings/AnagramBruteForce.cpp
+        Strings/AnagramOptimizedMethod.cpp
+        Strings/removeDuplicateCharcters.cpp
+        Arrays/BinaryExponentiation.cpp
 
 )
