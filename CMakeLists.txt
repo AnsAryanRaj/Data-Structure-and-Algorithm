@@ -256,5 +256,12 @@ add_executable(Coding main.cpp
         Vector/BestTimeToBuyAndSellStock.cpp
         Arrays/ContainerWithMostWaterBruteForceApproach.cpp
         Arrays/ProductOfArrayExcepSelfBruteForceMethod.cpp
+        Pointers/StoringAddressOfaVariableInPointer.cpp
+        Pointers/PointertoPointer.cpp
+        Pointers/DereferenceOperator.cpp
+        Pointers/PassbyReference.cpp
+        Pointers/PointerArithmetic.cpp
+        Pointers/UsingArrayAsPointer.cpp
+        Pointers/SubtractingTwoPointers.cpp
 
 )
