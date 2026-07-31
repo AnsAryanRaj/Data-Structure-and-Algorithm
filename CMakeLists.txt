@@ -254,5 +254,7 @@ add_executable(Coding main.cpp
         Strings/removeDuplicateCharcters.cpp
         Arrays/BinaryExponentiation.cpp
         Vector/BestTimeToBuyAndSellStock.cpp
+        Arrays/ContainerWithMostWaterBruteForceApproach.cpp
+        Arrays/ProductOfArrayExcepSelfBruteForceMethod.cpp
 
 )
