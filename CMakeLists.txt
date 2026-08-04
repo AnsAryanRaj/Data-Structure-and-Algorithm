@@ -263,5 +263,6 @@ add_executable(Coding main.cpp
         Pointers/PointerArithmetic.cpp
         Pointers/UsingArrayAsPointer.cpp
         Pointers/SubtractingTwoPointers.cpp
+        BinarySearch/BinarySearchUsingRecursion.cpp
 
 )
