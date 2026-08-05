@@ -268,5 +268,9 @@ add_executable(Coding main.cpp
         Arrays/PowerOfTwoBruteForce.cpp
         Arrays/PowerOfThreeBruteForce.cpp
         Arrays/PowerOfThreeUsingRecursion.cpp
+        Recursion/PowerOfFour.cpp
+        Recursion/PowOfTwo.cpp
+        Recursion/PowOfThree.cpp
+        Arrays/PowerOfTwoBitManipulationMethod.cpp
 
 )
