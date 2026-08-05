@@ -264,5 +264,9 @@ add_executable(Coding main.cpp
         Pointers/UsingArrayAsPointer.cpp
         Pointers/SubtractingTwoPointers.cpp
         BinarySearch/BinarySearchUsingRecursion.cpp
+        LeetcodeQuestions/CountGoodNumbers1922.cpp
+        Arrays/PowerOfTwoBruteForce.cpp
+        Arrays/PowerOfThreeBruteForce.cpp
+        Arrays/PowerOfThreeUsingRecursion.cpp
 
 )
