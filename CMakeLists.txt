@@ -272,5 +272,7 @@ add_executable(Coding main.cpp
         Recursion/PowOfTwo.cpp
         Recursion/PowOfThree.cpp
         Arrays/PowerOfTwoBitManipulationMethod.cpp
+        Arrays/PowerOfFourBruteForceApproach.cpp
+        BinarySearch/PeakIndexInMountain.cpp
 
 )
