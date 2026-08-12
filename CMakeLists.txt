@@ -274,5 +274,16 @@ add_executable(Coding main.cpp
         Arrays/PowerOfTwoBitManipulationMethod.cpp
         Arrays/PowerOfFourBruteForceApproach.cpp
         BinarySearch/PeakIndexInMountain.cpp
+        Basics/GCDOfTwoNos.cpp
+        Recursion/gcdofTwoNos.cpp
+        "LeetcodeQuestions/Maximize Pair Strength Using GCD.cpp"
+        Strings/NosOfElementsInaStringArray.cpp
+        Strings/NoOfcharBetweenFirstandLastcharOfaWordInAStringArray.cpp
+        BinarySearch/SingleElementInaSortedArray.cpp
+        LeetcodeQuestions/MyQuestionOne.cpp
+        "LeetcodeQuestions/ SmallestMissingIntegerGreaterThanSequentialPrefixSum.cpp"
+        BinarySearch/SearchInsertPosition.cpp
+        BinarySearch/SearchInsertPositionBruteForce.cpp
+        BinarySearch/LeetcodeBinarySearchQuestion.cpp
 
 )
