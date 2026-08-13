@@ -285,5 +285,8 @@ add_executable(Coding main.cpp
         BinarySearch/SearchInsertPosition.cpp
         BinarySearch/SearchInsertPositionBruteForce.cpp
         BinarySearch/LeetcodeBinarySearchQuestion.cpp
+        SlidingWindows/SlidingWindowMaximumBruteForce.cpp
+        SlidingWindows/maximumSumOfAnyFourConsecutiveElements.cpp
+        SlidingWindows/FindTheNumberOfVowelsInEverySubstringOfLengthThree.cpp
 
 )
