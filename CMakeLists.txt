@@ -291,5 +291,8 @@ add_executable(Coding main.cpp
         Sorting/BubbleSort.cpp
         Basics/SavingTaxes.cpp
         Sorting/SelectionSort.cpp
+        Sorting/InsertionSort.cpp
+        Sorting/SortColorsBruteForce.cpp
+        Sorting/SortColorsOptimized.cpp
 
 )
