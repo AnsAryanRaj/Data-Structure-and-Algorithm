@@ -38,4 +38,4 @@
 //
 // }
 
-//This is code of bubblsort
+// The code written above is of bubblesort
