@@ -288,5 +288,7 @@ add_executable(Coding main.cpp
         SlidingWindows/SlidingWindowMaximumBruteForce.cpp
         SlidingWindows/maximumSumOfAnyFourConsecutiveElements.cpp
         SlidingWindows/FindTheNumberOfVowelsInEverySubstringOfLengthThree.cpp
+        Sorting/BubbleSort.cpp
+        Basics/SavingTaxes.cpp
 
 )
