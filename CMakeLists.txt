@@ -290,5 +290,6 @@ add_executable(Coding main.cpp
         SlidingWindows/FindTheNumberOfVowelsInEverySubstringOfLengthThree.cpp
         Sorting/BubbleSort.cpp
         Basics/SavingTaxes.cpp
+        Sorting/SelectionSort.cpp
 
 )
