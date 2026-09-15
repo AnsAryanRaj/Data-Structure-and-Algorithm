@@ -1,4 +1,4 @@
-//linkedlist basic program
+//linkedlist basic program--
 #include<iostream>
 using namespace std;
 
