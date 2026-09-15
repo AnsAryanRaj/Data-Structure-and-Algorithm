@@ -294,5 +294,10 @@ add_executable(Coding main.cpp
         Sorting/InsertionSort.cpp
         Sorting/SortColorsBruteForce.cpp
         Sorting/SortColorsOptimized.cpp
+        STL/Vectors.cpp
+        STL/VectorIterators.cpp
+        STL/LIst.cpp
+        STL/deque.cpp
+        ESD/LLprogramOne.cpp
 
 )
