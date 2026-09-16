@@ -300,5 +300,11 @@ add_executable(Coding main.cpp
         STL/deque.cpp
         ESD/LLprogramOne.cpp
         ESD/ReverseLL.cpp
+        STL/Stack.cpp
+        STL/Queue.cpp
+        STL/PriorityQueue.cpp
+        STL/map.cpp
+        STL/Set.cpp
+        STL/Comparator.cpp
 
 )
