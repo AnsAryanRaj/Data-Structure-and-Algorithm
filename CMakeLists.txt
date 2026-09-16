@@ -306,5 +306,6 @@ add_executable(Coding main.cpp
         STL/map.cpp
         STL/Set.cpp
         STL/Comparator.cpp
+        STL/CountSetBits.cpp
 
 )
