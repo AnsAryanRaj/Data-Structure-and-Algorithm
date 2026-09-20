@@ -309,5 +309,7 @@ add_executable(Coding main.cpp
         STL/CountSetBits.cpp
         Strings/leetcodeValidPalindrome.cpp
         Strings/RemoveAllOccurenceOfAString.cpp
+        Strings/ReverseStringll.cpp
+        Strings/LeetcodeReverseWordInAString.cpp
 
 )
