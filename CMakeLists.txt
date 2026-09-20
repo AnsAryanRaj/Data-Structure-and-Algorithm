@@ -307,5 +307,7 @@ add_executable(Coding main.cpp
         STL/Set.cpp
         STL/Comparator.cpp
         STL/CountSetBits.cpp
+        Strings/leetcodeValidPalindrome.cpp
+        Strings/RemoveAllOccurenceOfAString.cpp
 
 )
