@@ -311,5 +311,9 @@ add_executable(Coding main.cpp
         Strings/RemoveAllOccurenceOfAString.cpp
         Strings/ReverseStringll.cpp
         Strings/LeetcodeReverseWordInAString.cpp
+        Basics/ShortcutToCountDigitsInANumber.cpp
+        Basics/ArmstrongNumbers.cpp
+        "2D Arrays/InputAndOutputInTwoDArray.cpp"
+        "2D Arrays/SumOfEltsOfMatrix.cpp"
 
 )
