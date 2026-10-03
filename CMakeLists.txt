@@ -318,5 +318,13 @@ add_executable(Coding main.cpp
         "2D Arrays/SumOfEltsRowWiseAndColWise.cpp"
         "2D Arrays/LargestElt.cpp"
         "2D Arrays/SumOfMainDiagonalTopLeftBottomRight.cpp"
+        Arrays/SecondLargestElement.cpp
+        Recursion/Factorial.cpp
+        Recursion/PrintArray.cpp
+        Recursion/CheckPrime.cpp
+        Recursion/ReverseString.cpp
+        Recursion/CheckIfArrayIsSorted.cpp
+        Recursion/CountVowelsInAString.cpp
+        Recursion/BinarySearchUsingRecursion.cpp
 
 )
