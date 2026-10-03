@@ -315,5 +315,8 @@ add_executable(Coding main.cpp
         Basics/ArmstrongNumbers.cpp
         "2D Arrays/InputAndOutputInTwoDArray.cpp"
         "2D Arrays/SumOfEltsOfMatrix.cpp"
+        "2D Arrays/SumOfEltsRowWiseAndColWise.cpp"
+        "2D Arrays/LargestElt.cpp"
+        "2D Arrays/SumOfMainDiagonalTopLeftBottomRight.cpp"
 
 )
