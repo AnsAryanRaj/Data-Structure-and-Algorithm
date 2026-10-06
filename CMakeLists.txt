@@ -326,5 +326,16 @@ add_executable(Coding main.cpp
         Recursion/CheckIfArrayIsSorted.cpp
         Recursion/CountVowelsInAString.cpp
         Recursion/BinarySearchUsingRecursion.cpp
+        Recursion/MergeTwoSortedArray.cpp
+        Recursion/ReverseArrayByKPos.cpp
+        OOPS/CreatingTeacherClass.cpp
+        OOPS/Encapsulation.cpp
+        OOPS/Constructor.cpp
+        OOPS/ThisPointer.cpp
+        OOPS/CopyConstructor.cpp
+        OOPS/ShallowCopy.cpp
+        OOPS/Destructor.cpp
+        OOPS/Inheritance.cpp
+        OOPS/MultilevelInheritance.cpp
 
 )
