@@ -1,3 +1,17 @@
+// #include<iostream>
+// #include<string>
+// using namespace std;
 //
-// Created by anshu on 06-10-2026.
+// void fun() {
+//     static int x=0; // init statement -1 run
+//     cout<<"x : "<<x<<endl;
+//     x++;
+// }
 //
+// int main() {
+//     fun();
+//     fun();
+//     fun();
+//
+//     return 0;
+// }
