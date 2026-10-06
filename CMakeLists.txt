@@ -337,5 +337,14 @@ add_executable(Coding main.cpp
         OOPS/Destructor.cpp
         OOPS/Inheritance.cpp
         OOPS/MultilevelInheritance.cpp
+        OOPS/MultipleInheritance.cpp
+        OOPS/HierarchicalInheritance.cpp
+        OOPS/HybridInheritance.cpp
+        OOPS/Polymorphism.cpp
+        "OOPS/Function Overloading.cpp"
+        OOPS/ConstructorOverloading.cpp
+        OOPS/OperatorOverloading.cpp
+        OOPS/Abstraction.cpp
+        OOPS/StaticKey.cpp
 
 )
