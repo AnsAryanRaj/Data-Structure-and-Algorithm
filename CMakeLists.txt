@@ -346,5 +346,14 @@ add_executable(Coding main.cpp
         OOPS/OperatorOverloading.cpp
         OOPS/Abstraction.cpp
         OOPS/StaticKey.cpp
+        LinkedList/CreatingANode.cpp
+        LinkedList/CreatingaLL.cpp
+        LinkedList/PushFrontinLL.cpp
+        LinkedList/CreatingPrintingSinglyLL.cpp
+        LinkedList/PushBackInLL.cpp
+        LinkedList/PopFront.cpp
+        LinkedList/PopBack.cpp
+        LinkedList/InsertinMiddleOfLL.cpp
+        LinkedList/SearchInLL.cpp
 
 )
