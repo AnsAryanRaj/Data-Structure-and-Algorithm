@@ -355,5 +355,9 @@ add_executable(Coding main.cpp
         LinkedList/PopBack.cpp
         LinkedList/InsertinMiddleOfLL.cpp
         LinkedList/SearchInLL.cpp
+        LinkedList/FindMiddleOfTheLLBruteForce.cpp
+        LinkedList/FindMiddleOfTheLLOptimized.cpp
+        LinkedList/LinkedListCycle.cpp
+        LinkedList/LinkedListCycleTwo.cpp
 
 )
