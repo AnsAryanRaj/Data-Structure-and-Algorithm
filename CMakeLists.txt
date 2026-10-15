@@ -359,5 +359,6 @@ add_executable(Coding main.cpp
         LinkedList/FindMiddleOfTheLLOptimized.cpp
         LinkedList/LinkedListCycle.cpp
         LinkedList/LinkedListCycleTwo.cpp
+        LinkedList/RemoveCycleFromLinkedList.cpp
 
 )
