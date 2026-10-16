@@ -360,5 +360,7 @@ add_executable(Coding main.cpp
         LinkedList/LinkedListCycle.cpp
         LinkedList/LinkedListCycleTwo.cpp
         LinkedList/RemoveCycleFromLinkedList.cpp
+        LinkedList/MergeTwoSortedLists.cpp
+        LinkedList/CopyListWithRandomPointer.cpp
 
 )

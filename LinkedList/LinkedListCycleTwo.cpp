@@ -22,7 +22,7 @@
 //         while(slow !=fast){
 //             slow=slow->next;
 //
-//             prev=fast;
+//
 //
 //             fast=fast->next;
 //
