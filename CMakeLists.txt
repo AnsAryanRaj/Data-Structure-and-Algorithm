@@ -362,5 +362,13 @@ add_executable(Coding main.cpp
         LinkedList/RemoveCycleFromLinkedList.cpp
         LinkedList/MergeTwoSortedLists.cpp
         LinkedList/CopyListWithRandomPointer.cpp
+        LinkedList/ImplementingDoublyLinkedList.cpp
+        LinkedList/pushbackFunction.cpp
+        LinkedList/PopFrontLinkedList.cpp
+        LinkedList/PopBackLinkedList.cpp
+        LinkedList/CircularLinkedListInsertAtHead.cpp
+        LinkedList/CircularLinkedListInsertAtTail.cpp
+        LinkedList/DeleteAtHead.cpp
+        LinkedList/DeleteAtTail.cpp
 
 )
