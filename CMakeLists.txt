@@ -372,5 +372,9 @@ add_executable(Coding main.cpp
         LinkedList/DeleteAtTail.cpp
         LinkedList/FlattenADoublyLinkedList.cpp
         LinkedList/ReverseNodesInKGroup.cpp
+        Stack/ImplementingStackUsingVector.cpp
+        Stack/ImplementingStackUsingLinkedList.cpp
+        "Stack/Implementing using Stack as Stack.cpp"
+        Stack/ValidParenthesis.cpp
 
 )
