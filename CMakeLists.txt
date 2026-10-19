@@ -370,5 +370,7 @@ add_executable(Coding main.cpp
         LinkedList/CircularLinkedListInsertAtTail.cpp
         LinkedList/DeleteAtHead.cpp
         LinkedList/DeleteAtTail.cpp
+        LinkedList/FlattenADoublyLinkedList.cpp
+        LinkedList/ReverseNodesInKGroup.cpp
 
 )
