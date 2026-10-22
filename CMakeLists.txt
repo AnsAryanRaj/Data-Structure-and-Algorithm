@@ -376,5 +376,6 @@ add_executable(Coding main.cpp
         Stack/ImplementingStackUsingLinkedList.cpp
         "Stack/Implementing using Stack as Stack.cpp"
         Stack/ValidParenthesis.cpp
+        Stack/StockSpanProblemLeetcode.cpp
 
 )
