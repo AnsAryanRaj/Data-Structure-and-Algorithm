@@ -6,7 +6,7 @@
 //     vector<int> ans(arr.size(), 0);
 //     stack<int>s;
 //     for (int i=0; i<arr.size();i++) {
-//         while (s.size()>0 && s.top()>=arr[i]) {
+//         while (s.size()>0 && s.top()>=arr[i]) { // pehle while loop execut ho jayega tab if-else execute hoga
 //             s.pop();
 //         }
 //         if (s.empty()) {
@@ -14,7 +14,7 @@
 //         }else {
 //             ans[i]=s.top();
 //         }
-//         s.push(arr[i]);
+//         s.push(arr[i]);// har case me run hoga bhale hi if-else true ho ya false ho
 //     }
 //     return ans;
 // }
