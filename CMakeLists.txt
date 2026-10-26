@@ -381,4 +381,8 @@ add_executable(Coding main.cpp
         Stack/NextGreaterElementLeetcodeQuestion.cpp
         Stack/PreviousSmallerElement.cpp
 
+        Stack/MinStackLeetcode.cpp
+        LeetcodeQuestions/ApplyOperationsToanArray.cpp
+        LeetcodeQuestions/RemoveElement.cpp
+
 )
