@@ -384,5 +384,8 @@ add_executable(Coding main.cpp
         Stack/MinStackLeetcode.cpp
         LeetcodeQuestions/ApplyOperationsToanArray.cpp
         LeetcodeQuestions/RemoveElement.cpp
+        LeetcodeQuestions/containsDuplicate.cpp
+        RunningOneDArraySum.cpp
+        LeetcodeQuestions/RichestCustomerWealth.cpp
 
 )
