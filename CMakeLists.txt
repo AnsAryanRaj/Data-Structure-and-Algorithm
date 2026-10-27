@@ -388,5 +388,7 @@ add_executable(Coding main.cpp
         RunningOneDArraySum.cpp
         LeetcodeQuestions/RichestCustomerWealth.cpp
         LeetcodeQuestions/BuildArrayFromPermutation.cpp
+        LeetcodeQuestions/FindNumWithEvenNumOfDigits.cpp
+        LeetcodeQuestions/FizzBuzz.cpp
 
 )
