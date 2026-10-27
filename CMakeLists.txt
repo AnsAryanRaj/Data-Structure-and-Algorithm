@@ -387,5 +387,6 @@ add_executable(Coding main.cpp
         LeetcodeQuestions/containsDuplicate.cpp
         RunningOneDArraySum.cpp
         LeetcodeQuestions/RichestCustomerWealth.cpp
+        LeetcodeQuestions/BuildArrayFromPermutation.cpp
 
 )
