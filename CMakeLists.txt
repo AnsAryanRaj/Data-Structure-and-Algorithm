@@ -390,5 +390,7 @@ add_executable(Coding main.cpp
         LeetcodeQuestions/BuildArrayFromPermutation.cpp
         LeetcodeQuestions/FindNumWithEvenNumOfDigits.cpp
         LeetcodeQuestions/FizzBuzz.cpp
+        Stack/LargestRectangleInHistorgram.cpp
+        Stack/NextGreaterElementTwo.cpp
 
 )
